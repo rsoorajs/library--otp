@@ -1,6 +1,6 @@
 # OTP Generator for reactjs and Nodejs
 
-#usage for reactjs
+#usage for Nodejs
 ```
 const otp = require("./node_modules/randomotp/node.js");
 
