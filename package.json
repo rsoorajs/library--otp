@@ -1,9 +1,31 @@
 {
-  "name": "randomotp",
+  "name": "freeotp",
   "version": "1.0.0",
   "description": "A simple npm package to generate random otp for reactjs and nodejs.",
   "main": "react.js",
-  "repository": "https://github.com/rsoorajs/library--otp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsoorajs/library--otp.git"
+  },
   "author": "Sooraj S R",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsoorajs/library--otp/issues"
+  },
+  "homepage": "https://github.com/rsoorajs/library--otp#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "otp",
+    "emailotp",
+    "smsotp",
+    "otpfree",
+    "fastotp",
+    "auth",
+    "unlimitedotp",
+    "reactotp",
+    "nodejsotp",
+    "reactjsotp"
+  ]
 }
