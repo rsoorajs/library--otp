@@ -1,0 +1,9 @@
+{
+  "name": "randomotp",
+  "version": "1.0.0",
+  "description": "A simple npm package to generate random otp for reactjs and nodejs.",
+  "main": "react.js",
+  "repository": "https://github.com/rsoorajs/library--otp",
+  "author": "Sooraj S R",
+  "license": "MIT"
+}
