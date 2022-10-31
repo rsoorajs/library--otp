@@ -2,7 +2,7 @@
 
 #usage for Nodejs
 ```
-const otp = require("./node_modules/randomotp/node.js");
+const otp = require("./node_modules/randomotp/node");
 
 const generatedOtp = otp(6);
 console.log(generatedOtp);
