@@ -9,6 +9,14 @@ console.log(generatedOtp);
 // otp(6) 6 -is the length of the otp
 ```
 
-// How to run
 
-`node packagename.js`
+
+#usage for ReactJS
+```
+import otp from "../node_modules/randomotp/react";
+
+const generatedOtp = otp(6);
+console.log(generatedOtp);
+// otp(6) 6 -is the length of the otp
+```
+
