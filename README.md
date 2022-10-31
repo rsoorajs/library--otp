@@ -1,4 +1,4 @@
-#OTP Generator for reactjs and Nodejs
+# OTP Generator for reactjs and Nodejs
 
 #usage for reactjs
 ```
